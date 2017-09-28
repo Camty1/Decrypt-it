@@ -1,0 +1,6 @@
+C:\Users\cwolf_000\Documents\GitHub\Decrypt it\Decrypt it\bin\Debug\Decrypt it.exe.config
+C:\Users\cwolf_000\Documents\GitHub\Decrypt it\Decrypt it\bin\Debug\Decrypt it.exe
+C:\Users\cwolf_000\Documents\GitHub\Decrypt it\Decrypt it\bin\Debug\Decrypt it.pdb
+C:\Users\cwolf_000\Documents\GitHub\Decrypt it\Decrypt it\obj\Debug\Decrypt it.csprojResolveAssemblyReference.cache
+C:\Users\cwolf_000\Documents\GitHub\Decrypt it\Decrypt it\obj\Debug\Decrypt it.exe
+C:\Users\cwolf_000\Documents\GitHub\Decrypt it\Decrypt it\obj\Debug\Decrypt it.pdb
